@@ -1,3 +1,7 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+
+This is the first things you'll see this
+This is the page which pay tribute to the great men of past
+# What you can expect from this website-
+-[] Time line of great men and women
